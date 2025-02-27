@@ -1,0 +1,1 @@
+# Automate-image-removal
